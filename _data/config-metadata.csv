@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-title,Title,true
+title,Title,
 creator,Creator,true
 date,Date Created,true
 description,Description,
