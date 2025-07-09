@@ -9,7 +9,7 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-url,URL,,true
+filename,URL,,true
 type,Type,
 format,Format,
 rights,Rights,
