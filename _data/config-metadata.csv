@@ -5,6 +5,7 @@ date,Date Created,true
 description,Description,
 subject,Subjects,true
 publisher,Publishers,true
+language,Language,true
 location,Location
 latitude,Latitude
 longitude,Longitude
