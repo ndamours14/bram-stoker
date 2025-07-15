@@ -1,5 +1,7 @@
 field,display_name
 title,Title
+creator,Creator
 date,Date
+publisher,Publisher
 description,Description
 subject,Subjects
